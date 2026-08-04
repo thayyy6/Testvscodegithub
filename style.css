@@ -1,9 +1,9 @@
-background {
-  color: blueviolet;
+body {
+  background-color: tomato;
 }
 
 h1 {
-  color: red;
+  color: green;
   text-align: center;
 }
 
