@@ -9,3 +9,5 @@ Gonna stay home all day, Im bored
 Holy shit
 
 Hmmmm
+
+Chir kbal nas aii
