@@ -90,3 +90,13 @@ il/elle a
 nous avons
 vous avez
 ils/elles ont
+
+-----------------------------
+Passé Composé
+
+J'ai mangé
+tu as fini
+il/elle vendu
+nous sommes arrivés
+vous êtes partis
+ils/elles sortis
