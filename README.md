@@ -1,13 +1,11 @@
-# Hey, its summer break
+# wesh, c'est ete
 
-I can't find a job and have no money
+Je vais chercher un job pour c'est tete
 
-Please, help me. Im under the water
+parce que j'ai pas encore assez d'argent pour vacance a Bali
 
-Gonna stay home all day, Im bored
+J'espere que le enterprise trouve moi ._.
 
-Holy shit
+ou c'est ennuyeux pour moi c'est ete
 
-Hmmmm
-
-Chir kbal nas aii
+Je veux l'argent de voyager
